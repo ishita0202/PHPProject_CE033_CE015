@@ -138,16 +138,7 @@ fieldset{
     float: left;
 }
 
-.tech-menu-desc{
-    width: 70%;
-    float: left;
-    margin-left: 8%;
-}
 
-.tech-price{
-    font-size: 1.2rem;
-    margin: 2% 0;
-}
 .tech-detail{
     font-size: 1rem;
     color: #747d8c;
@@ -198,4 +189,4 @@ input[type=text], select, textarea {
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
-  }
+}

@@ -14,7 +14,7 @@
 <body>
     <?php include('header.html') ?>
         <div class="float-container">
-            <img src="images/felicif.jpeg" alt="2" class="img-responsive img-curve" width="500px" height="500px">
+            <img src="images/feli.jpeg" alt="2" class="img-responsive img-curve" height="400px">
         </div>
         
     <section class="categories">

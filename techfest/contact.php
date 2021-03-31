@@ -73,6 +73,7 @@
 </head>
 
 <body>    
+<br><br>
     <div class="containercon" >    
         <form   action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">   
 
@@ -95,7 +96,7 @@
             <input type="submit" name="submit" value="Submit" class="btn btn-primary">
             
         </form>
-    </div><br><br>
+    </div><br><br><br>
     <?php include('footer.html')?>
   
 </body>

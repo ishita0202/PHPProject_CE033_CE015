@@ -15,8 +15,6 @@
 
     foreach($r as $t){
         if($t['remain_team'] == 0){
-            // $err = "No Space Available Please try again next year";
-            // echo "<h4 align='center'>No Space Available Please try again next year</h4>";
             header('Location:noseats.php');
         
         }
